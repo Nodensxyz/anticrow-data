@@ -2022,5 +2022,16 @@
         "status": "CLOSED",
         "profit": -2361.0,
         "close_time": "2026-06-17T20:11:41"
+    },
+    {
+        "ticket": 17647925,
+        "symbol": "US30.raw",
+        "strategy": "MS_US30_DONCH96_L",
+        "direction": "BUY",
+        "entry_time": "2026-06-18T02:00:00",
+        "entry_price": 52262.0,
+        "status": "CLOSED",
+        "profit": -1731.0,
+        "close_time": "2026-06-18T02:47:19"
     }
 ]
